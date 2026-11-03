@@ -1,0 +1,23 @@
+ECHO OF CRASH — CREDITS
+
+Created by Yibo Wang
+Game Design & Blueprint Programming — Yibo Wang
+
+Selected illustrations, title and UI artwork are AI-assisted.
+English character voices are synthesized with a local Qwen3-TTS workflow.
+AI-assisted tools were also used during implementation and dialogue production.
+
+Third-party content retains its original ownership and licensing:
+- Existing licensed environment, character and vehicle asset packs from the
+  original project, including Polygon Town and SUV03.
+- Mixamo character animation (Adobe).
+- Unreal Engine (Epic Games).
+- Kenney Impact Sounds (CC0): https://kenney.nl/assets/impact-sounds
+- Kenney Interface Sounds (CC0): https://kenney.nl/assets/interface-sounds
+- Kenney RPG Audio (CC0): https://kenney.nl/assets/rpg-audio
+
+Music and additional interaction/transition effects are original procedural
+arrangements and synthesized sounds made for this project.
+
+This download is a playable game, not a source-asset library. Third-party
+assets are not offered separately or relicensed by this distribution.
