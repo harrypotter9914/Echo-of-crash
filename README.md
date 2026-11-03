@@ -41,7 +41,7 @@ Across all three encounters, the driver's mood carries forward. It affects how t
 | [Three encounters, with overhead views and route diagrams](docs/Encounters.md) | How I used approach direction, vehicle weight and evidence placement to give each junction its own question. Contains case spoilers. |
 | [Guided code walkthrough](docs/Code.md) | Follow the Space input into the avoidance branch, a rescue into the countdown, and the white flash into the first spoken line. |
 | [Browse the game module](Source/EchoOfCrash) | The C++ source, Blueprint-callable functions and gameplay tests, readable directly on GitHub. |
-| [Complete design portfolio · 18 pages](portfolio/Complete.pdf?raw=true) | The longer illustrated case study, including level layouts, narrative, UI and feedback. |
+| [Explore the full design case study · 18 pages](portfolio/Full-case-study.md) | Read the full portfolio online or download the PDF. Jump to the three encounter layouts, evidence placement, sound design or iteration notes. |
 
 The source snapshot accompanies the Windows release. Running the game from its project files also requires the Unreal maps, Blueprint assets and licensed content packs. The [Windows download](https://hajimi9914.itch.io/echo-of-crash) includes the playable build.
 
